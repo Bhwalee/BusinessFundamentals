@@ -1,6 +1,6 @@
 # BusinessFundamentals
 
-Summary
+# Summary
 Say that you'd like to do some data work for an organization, but they aren't hiring. They might not even know that they could benefit from the data science services of a skilled practitioner like you. How can you get their attention?
 
 For this project, you are going to deliver a well-scoped project proposal and preliminary analysis to your target organization (“client”) to try to get your foot in the door. Your job is to:
