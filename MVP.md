@@ -4,8 +4,6 @@ I will be using linear regression model and time-series model to predict why mor
 
 Few graphs show that broadband is not increasing fast enough to catch the number of internet users. To meet the demand of high-internet speed, more broadband should be installed as we become more interconnected to the internet.
 
-/Users/byunghwalee/opt/anaconda3/lib/python3.8/site-packages/seaborn/_decorators.py:36: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
-  warnings.warn(
-Out[50]:
-<AxesSubplot:xlabel='Year', ylabel='Number of internet users (OWID based on WB & UN)'>
-In [48]:
+<img width="565" alt="Screen Shot 2021-10-12 at 3 03 55 PM" src="https://user-images.githubusercontent.com/86501110/137035260-40bb8d6b-7a3c-45c5-a9a2-88b42a63887d.png">
+<img width="760" alt="Screen Shot 2021-10-12 at 3 04 04 PM" src="https://user-images.githubusercontent.com/86501110/137035265-921b2210-834a-4157-874f-698d44a8bd02.png">
+<img width="563" alt="Screen Shot 2021-10-12 at 3 04 12 PM" src="https://user-images.githubusercontent.com/86501110/137035273-a0846706-e61b-4be2-84e4-0cdbbaa4bcd4.png">
