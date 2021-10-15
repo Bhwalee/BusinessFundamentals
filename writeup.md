@@ -8,4 +8,5 @@ Algorithms – For this project, I explored different counties and what causes t
 
 Communications –  Used Tableau and Excel to analyze and visualize the data. Used PowerPoint to give presentation to the class. 
  
-![image](https://user-images.githubusercontent.com/86501110/137469748-6ff13c96-1f07-40b4-a162-97bce29cc150.png)
+https://public.tableau.com/app/profile/byunghwa.lee
+
